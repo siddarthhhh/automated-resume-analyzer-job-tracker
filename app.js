@@ -22,3 +22,10 @@ const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`🚀 Server running on port ${PORT}`);
 });
+//todays progressProject initialized with Express	✅ Done
+// GitHub repo created and tracked	✅ Done
+// MongoDB connection configured	✅ Done
+// User model (Mongoose) created	✅ Done
+// Authentication (Register + Login) with JWT	✅ Done
+// Postman tested for register/login	✅ Done
+// Protected route /api/jobs/dashboard	✅ Done
